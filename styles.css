@@ -1,0 +1,15 @@
+.form-msg {
+    position: absolute;
+    right: 0;
+    left: 0;
+    top: 30px;
+    text-align: center;
+}
+
+#mensaje-error {
+    color: crimson;
+}
+
+#mensaje-confirmacion {
+    color: green;
+}
